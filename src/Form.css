@@ -1,0 +1,35 @@
+#container {
+    height: 500px;
+}
+#edit {
+    float: right;
+    width : 100px;
+    height : 40px;
+    border : 2px solid slateblue;
+    text-align: center;
+}
+
+#container h1{
+    text-align: center;
+    font-size: 3vw;
+}
+form {
+    margin: 5% 33.5%;
+}
+label{
+    font-size: 30px;
+}
+input{
+    width : 500px;
+    height : 50px;
+    padding: 0;
+    font-size: 30px;
+    padding-left: 5%;
+}
+#save, #cancel{
+    width : 100px;
+    height : 40px;
+    border : 2px solid slateblue;
+    text-align: center;
+    margin: 3% 13% 0;
+}

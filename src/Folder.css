@@ -1,0 +1,14 @@
+#folderContainer {
+    display: grid;
+    position: absolute;
+}
+#toggle {
+    width : 100px;
+    height : 40px;
+    border : 2px solid slateblue;
+    text-align: center;
+    float: right;
+}
+#folder{
+    font-size: 20px;
+}
